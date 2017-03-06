@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\bin\Debug\cg_lab1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\bin\Debug\cg_lab1.exe
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\bin\Debug\cg_lab1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.exe
+c:\users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.Form2.resources
+C:\Users\admin\documents\visual studio 2013\Projects\cg_lab1\cg_lab1\obj\Debug\cg_lab1.DefineMatrix.resources
